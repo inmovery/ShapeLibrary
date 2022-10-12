@@ -1,0 +1,10 @@
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.deps.json
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.AssemblyInfo.cs
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\Users\inmovery\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "koyiUSYOOnlPolc6O6EOvoN42diJrvSqnflo03Nt0rJPHq04S/U8JZ+slAgv7f8m2p1Fy9X7Avx/JWw9iL7IIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inmovery\\source\\repos\\ShapeLibrary\\ShapeLibrary.Demo\\ShapeLibrary.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inmovery\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
